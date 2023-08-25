@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/@amanchowdhury046" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/offcampus_phodenge" target="_blank">
+  <a href="https://telegram.me/offcampus_phodenge" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="amanchowdhuryaa@gmail.com" target="_blank">
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Software Developer at BNY Mellon<br>- 📚 I share all the Job Updates, Webinar, Hackathon on our telegram channel <a href="https://t.me/offcampus_phodenge" target="_blank">
+<p align="left">- 🔭 I’m working as a Software Developer at BNY Mellon<br>- 📚 I share all the Job Updates, Webinar, Hackathon on our telegram channel <a href="https://telegram.me/offcampus_phodenge" target="_blank">
     <img src="https://img.shields.io/static/v1?message=OffCampus Phodenge By Aman&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" align="center" height="25" alt="telegram logo"  />
   </a> <br>- ⚡ Here I share useful resources to crack SDE Jobs and Internships</p>
 
